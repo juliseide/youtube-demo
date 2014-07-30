@@ -43,6 +43,7 @@ public class Haupt {
 	public static final String TIMECLOSE = "timeClose";
 	public static final String LOCID = "locationID";
 	public static final String TABLE_SCHEDULE = "schedule";
+	public static String gitti = "gitti";
 	
 	public static void main(String[] args)
 	{
